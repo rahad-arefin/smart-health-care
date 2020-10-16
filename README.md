@@ -1,0 +1,2 @@
+# smart-health-care
+Today, because of the advent of internet technology &amp; the possibility to reach many consumers, physician have begun to notice an increasing number of patients who use Information Technology for health education &amp; communication. The main objective of this project is to implement online based Smart Health Management System. This system will help the users to identify specific doctors based on their problem/diseases. The system is designed in favor of those patient, who have no idea/record about whom they should consult.
